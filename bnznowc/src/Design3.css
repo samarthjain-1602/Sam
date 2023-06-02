@@ -1,0 +1,1852 @@
+.Companybox{
+position: absolute;
+box-sizing: border-box;
+top: 180px;
+left: 300px;
+box-shadow: 0px 0px 100px #444444;
+border-color: #FBFBFB;
+width: 600px;
+height: 500px;
+background-color: #110209;
+
+    border-radius: 20px;
+}
+
+.Companyheading{
+position: absolute;
+font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    color: #FBFBFB;
+    width: 600px;
+    top: 20%;
+    left: 3%;
+
+}
+.companytype{
+position: absolute;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color:#52F40D;
+    position: absolute;
+    width: 311px;
+    height: 30px;
+    top: 45%;
+    left: 3%;
+    background: #000000;
+    border: 1px solid #FBFBFB;
+    border-radius: 5px;
+    
+    
+}
+
+
+.others{
+position: absolute;
+top: 87%;
+left: 60%;
+display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 4px 20px;
+    gap: 10px;
+    width: 200px;
+    height: 29px;
+    background: #52F40D;
+    border-radius: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    background: #52F40D;
+    border-radius: 20px;
+    border: #000000;
+
+    
+}
+
+
+.gradient{
+    position: absolute;
+        background-color:#FBFBFB;
+        width: 100%;
+        height: 50%;
+        top: -7%;
+        left: 0%;
+        background-image: linear-gradient(to top, #000000, rgba(0, 0, 0, 0.6));
+    
+}
+
+
+/* CSS CODE FOR RESORT PAGE */
+.resort{
+position: absolute;
+box-sizing: border-box;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    color: #FBFBFB;
+    left: 16%;
+    top: 18%;
+background: #000000;
+    border: 1px solid #444444;
+    border-radius: 0px;
+    width: 69%;
+background: linear-gradient(to left, #52F40D, #000000);
+
+}
+.RBOX1{
+    position: absolute;
+    top: 50%;
+    left: 15%;
+    color: #FBFBFB;
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 1070px;
+        height: 219px;
+      
+    z-index: 2;
+        background: #000000;
+        border: 1px solid #444444;
+        border-radius: 5px;
+}
+
+.dabba0{
+    position: absolute;
+        width: 1070px;
+        height: 47px;
+        left: 0%;
+        top: -8%;
+    
+        background: #444444;
+        border-radius: 5px 5px 0px 0px;
+}
+.combustion{
+    position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #FBFBFB;
+        left: 3%;
+        top: -1%;
+}
+
+.checkbox-box1{
+    position: absolute;
+    top: 40%;
+    left: 2.5%;
+    box-sizing: border-box;
+        width: 15px;
+        height: 15px;
+        border: 1px solid #FBFBFB;
+        border-radius: 2px;
+}
+.capacity{
+    position: absolute;
+   left: 7%;
+   width: 10%;
+   top: 38%;
+box-sizing: border-box;
+    width: 211px;
+    height: 30px;
+    background: #000000;
+    border: 1px solid #FBFBFB;
+    border-radius: 5px;
+    color: #52F40D;
+    font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+    
+}
+.runtime{
+position: absolute;
+width: 10%;
+left: 7%;
+top: 58%;
+box-sizing: border-box; 
+    width: 211px;
+    height: 30px;
+    color: #52F40D;
+    background: #000000;
+    border: 1px solid #FBFBFB;
+    border-radius: 5px;
+    font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+}
+
+.DG{
+    position: absolute;
+    left: 3%;
+    top: 17%;
+}
+
+.checkbox-box2{
+    position: absolute;
+        top: 70%;
+        left: 42.5%;
+        box-sizing: border-box;
+        width: 15px;
+        height: 15px;
+        border: 1px solid #FBFBFB;
+        border-radius: 2px;
+}
+
+.boiler{
+    position: absolute;
+    left: 43%;
+    top: 50%;
+    font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        
+}
+
+.Gas{
+    position: absolute;
+    left: 47%;
+    top: 70%;
+    box-sizing: border-box;
+        box-sizing: border-box;
+            width: 211px;
+            height: 30px;
+            background: #000000;
+            border: 1px solid #FBFBFB;
+            border-radius: 5px;
+            color: #52F40D;
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+}
+
+
+
+.checkbox-box3{
+    position: absolute;
+        top: 40%;
+        left: 42.5%;
+        box-sizing: border-box;
+        width: 15px;
+        height: 15px;
+        border: 1px solid #52F40D;
+        border-radius: 2px;
+}
+
+.stove{
+position: absolute;
+    left: 43%;
+    top: 17%;
+    font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+}
+
+.LPG{
+    position: absolute;
+        left: 47%;
+        top: 40%;
+      
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 211px;
+        font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+        height: 30px;
+    color: #52F40D;
+    
+        background: #000000;
+        border: 1px solid #FBFBFB;
+        border-radius: 5px;
+}
+
+
+.RBOX2{
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 1070px;
+        height: 230px;
+        left: 15%;
+        top: 83%;
+    z-index: 2;
+        background: #000000;
+        border: 1px solid #444444;
+        border-radius: 5px;
+}
+.p{
+    position: absolute;
+        width: 1070px;
+        height: 47px;
+        top: -7%;
+    
+        background: #444444;
+        border-radius: 5px 5px 0px 0px;
+}
+
+.vehicle{
+    position: absolute;
+    font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #FBFBFB;
+        left: 3%;
+        top: -1%;
+}
+
+
+.totalvehicle{
+    position: absolute;
+    box-sizing: border-box;
+        width: 211px;
+        height: 30px;
+        background: #000000;
+        border: 1px solid #FBFBFB;
+        border-radius: 5px;
+        color: #52F40D;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        left: 3%;
+        top: 30%;
+}
+
+.car{
+    position: absolute;
+    top: 60%;
+    left: 17%;
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 211px;
+        height: 30px;
+    font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #52F40D;
+        background: #000000;
+        border: 1px solid #FBFBFB;
+        border-radius: 5px;
+}
+
+.typecar{
+    position: absolute;
+    font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        left: 3%;
+        top: 53%;
+        color: #FBFBFB;
+}
+
+.fueltype{
+    position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        left: 60%;
+        top: 30%;
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 211px;
+        height: 30px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #52F40D;
+        background: #000000;
+        border: 1px solid #FBFBFB;
+        border-radius: 5px;
+
+}
+
+.fueloption{
+    position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        left: 50%;
+        top: 24%;
+        color: #FBFBFB;
+}
+
+.disttravelled{
+    position: absolute;
+        box-sizing: border-box;
+        width: 211px;
+        height: 30px;
+        background: #000000;
+        border: 1px solid #FBFBFB;
+        border-radius: 5px;
+        color: #52F40D;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        left: 50%;
+        top: 60%;
+}
+
+.km{
+    position: absolute;
+    color: #52F40D;
+    left: 71%;
+    top: 54%;
+    font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+}
+
+
+.RBOX3{
+    position: absolute;
+    box-sizing: border-box;
+    
+       
+        width: 1070px;
+        height: 120px;
+        top: 118%;
+        left: 15%;
+    z-index: 2;
+    
+        background: #000000;
+        border: 1px solid #444444;
+        border-radius: 5px;
+}
+
+.fugitive{
+    position: absolute;
+    top: -4%;
+    left: 3%;
+    font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #FBFBFB;
+        z-index: 1;
+}
+.dabba1{
+    position: absolute;
+        width: 1070px;
+        height: 47px;
+        left: 0%;
+        top: -16%;
+    
+        background: #444444;
+        border-radius: 5px 5px 0px 0px;
+}
+
+.gas{
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 211px;
+        height: 30px;
+        left: 20%;
+        top: 60%;
+        background: #000000;
+        border: 1px solid #FBFBFB;
+        border-radius: 5px;
+        color: #52F40D;
+        font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+}
+
+.refill{
+    position: absolute;
+    top: 48%;
+    left: 3%;
+    font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #FBFBFB;
+
+}
+
+.RBOX4{
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 1070px;
+        height: 210px;
+        left: 15%;
+        top: 138%;
+    z-index: 2;
+        background: #000000;
+        border: 1px solid #444444;
+        border-radius: 5px;
+}
+
+.dabba2{
+    position: absolute;
+        width: 1070px;
+        height: 47px;
+        left: 0%;
+        top: -7.8%;
+    
+        background: #444444;
+        border-radius: 5px 5px 0px 0px;
+}
+
+.electricity{
+position: absolute;
+    top: -2%;
+    left: 3%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FBFBFB;
+    z-index: 1;
+}
+.ee{
+position: absolute;
+position: absolute;
+    top: 26%;
+    left: 3%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FBFBFB;
+}
+.energy{
+position: absolute;
+    box-sizing: border-box;
+    width: 211px;
+    height: 30px;
+    background: #000000;
+    border: 1px solid #FBFBFB;
+    border-radius: 5px;
+    color: #52F40D;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    left: 23%;
+    top: 32%;
+}
+
+.renew{
+    position: absolute;
+        box-sizing: border-box;
+        width: 211px;
+        height: 30px;
+        background: #000000;
+        border: 1px solid #FBFBFB;
+        border-radius: 5px;
+        color: #52F40D;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        left: 31%;
+        top: 64%;
+}
+
+.purchased{
+    position: absolute;
+        top: 58%;
+        left: 3%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #FBFBFB;
+}
+
+.RBOX5{
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 1070px;
+        height: 210px;
+        left: 15%;
+        top: 170%;
+    z-index: 2;
+        background: #000000;
+        border: 1px solid #444444;
+        border-radius: 5px;
+}
+        
+.dabba3{
+    position: absolute;
+        width: 1070px;
+        height: 47px;
+        left: 0%;
+        top: -7.8%;
+    
+        background: #444444;
+        border-radius: 5px 5px 0px 0px;
+}
+
+.transport{
+    position: absolute;
+        top: -2%;
+        left: 3%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #FBFBFB;
+        z-index: 1;
+}
+.trips{
+    position: absolute;
+        top: 29%;
+        left: 3%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #FBFBFB;
+}
+.avgtrips{
+box-sizing: border-box;
+
+    position: absolute;
+    width: 211px;
+    height: 30px;
+    left: 30%;
+    font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+    top: 36%;
+color: #52F40D;
+    background: #000000;
+    border: 1px solid #FBFBFB;
+    border-radius: 5px;
+}
+
+.dist{
+    position: absolute;
+        top: 60%;
+        left: 3%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #FBFBFB;
+}
+
+.avgdist{
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 211px;
+        height: 30px;
+        left: 24%;
+        top: 67%;
+        font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+    color: #52F40D;
+        background: #000000;
+        border: 1px solid #FBFBFB;
+        border-radius: 5px;
+    }
+.vehicle1{
+    box-sizing: border-box;
+    font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        position: absolute;
+        width: 211px;
+        height: 30px;
+        left: 70%;
+        top: 36%;
+       color: #52F40D;
+        background: #000000;
+        border: 1px solid #FBFBFB;
+        border-radius: 5px;
+}
+
+.typevehicle{
+position: absolute;
+    top: 29%;
+    left: 54%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FBFBFB;
+
+}
+
+.RBOX6{
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 1070px;
+        height: 450px;
+        left: 15%;
+        top: 202%;
+    z-index: 2;
+        background: #000000;
+        border: 1px solid #444444;
+        border-radius: 5px;
+}
+.dabba4{
+    position: absolute;
+        width: 1070px;
+        height: 47px;
+        left: 0%;
+        top: -4%;
+    
+        background: #444444;
+        border-radius: 5px 5px 0px 0px;
+}
+
+.employeeheading{
+    position: absolute;
+        top: -1%;
+        left: 3%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #FBFBFB;
+        z-index: 1;
+}
+
+.personalcomm{
+    position: absolute;
+        top: 10%;
+        left: 3%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #FBFBFB;
+}
+
+.avgdistance{
+    position: absolute;
+        top: 20%;
+        left: 3%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #FBFBFB;
+}
+
+.avgdist1{
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 211px;
+        height: 30px;
+        left: 31%;
+        top: 23%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #52F40D;
+        background: #000000;
+        border: 1px solid #FBFBFB;
+        border-radius: 5px;
+}
+
+.avgdistance2{
+    position: absolute;
+        top: 34%;
+        left: 3%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #FBFBFB;
+}
+
+.avgdist2{
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 211px;
+        height: 30px;
+        left: 25%;
+        top: 37%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #52F40D;
+        background: #000000;
+        border: 1px solid #FBFBFB;
+        border-radius: 5px;
+}
+
+.companyveh{
+    position: absolute;
+        top: 55%;
+        left: 3%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #FBFBFB;
+}
+
+.totaltrips{
+    position: absolute;
+        top: 65%;
+        left: 3%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #FBFBFB;
+}
+
+.totaltrips1{
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 211px;
+        height: 30px;
+        left: 18%;
+        top: 68%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #52F40D;
+        background: #000000;
+        border: 1px solid #FBFBFB;
+        border-radius: 5px;
+}
+
+.contract{
+    position: absolute;
+        top: 79%;
+        left: 3%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #FBFBFB;
+}
+
+.contract1{
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 211px;
+        height: 30px;
+        left: 32%;
+        top: 82%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #52F40D;
+        background: #000000;
+        border: 1px solid #FBFBFB;
+        border-radius: 5px;
+}
+.hr10{
+    position: absolute;
+        width: 1067px;
+        height: 0px;
+        left: 0%;
+        top: 50%;
+    
+        border: 1px solid #444444;
+}
+
+
+.RBOX7{
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 1070px;
+        height: 450px;
+        left: 15%;
+        top: 268%;
+    z-index: 2;
+        background: #000000;
+        border: 1px solid #444444;
+        border-radius: 5px;
+}
+
+.dabba5{
+    position: absolute;
+        width: 1070px;
+        height: 47px;
+        left: 0%;
+        top: -3.6%;
+    
+        background: #444444;
+        border-radius: 5px 5px 0px 0px;
+}
+
+.business{
+    position: absolute;
+        top: -1%;
+        left: 3%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #FBFBFB;
+}
+
+.hiredheading{
+    position: absolute;
+        top: 13%;
+        left: 3%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 19px;
+        color: #FBFBFB;
+}
+
+.hiredcar{
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 211px;
+        height: 30px;
+        left: 19%;
+        top: 47%;
+    color: #52F40D;
+        background: #000000;
+        border: 1px solid #FBFBFB;
+        border-radius: 5px;
+        font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+}
+
+.travelkm{
+    position: absolute;
+        top: 28%;
+        left: 3%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #FBFBFB;
+}
+.travelkm1{
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 211px;
+        height: 30px;
+        left: 20%;
+        top: 31%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #52F40D;
+        background: #000000;
+        border: 1px solid #FBFBFB;
+        border-radius: 5px;
+}
+
+.hired{
+    position: absolute;
+        top: 44%;
+        left: 3%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #FBFBFB;
+}
+.hiredfuel{
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 211px;
+        height: 30px;
+        left: 13%;
+        top: 66%;
+        color: #52F40D;
+        background: #000000;
+        border: 1px solid #FBFBFB;
+        border-radius: 5px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+}
+
+.typefuel{
+    position: absolute;
+        top: 63%;
+        left: 3%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #FBFBFB;
+}
+.airtravel{
+    position: absolute;
+        top: 14%;
+        left: 53%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 19px;
+        color: #FBFBFB;
+}
+
+.travelfrom{
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 211px;
+        height: 30px;
+        left: 68%;
+        top: 30%;
+    font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+    color: #52F40D;
+        background: #000000;
+        border: 1px solid #FBFBFB;
+        border-radius: 5px;
+}
+
+.travelto{
+        box-sizing: border-box;
+        
+            position: absolute;
+            width: 211px;
+            height: 30px;
+            left: 67%;
+            top: 50%;
+        font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            color: #52F40D;
+            background: #000000;
+            border: 1px solid #FBFBFB;
+            border-radius: 5px;
+}
+
+.stationfrom{
+    position: absolute;
+        top: 26%;
+        left: 53%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 19px;
+        font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+        color: #FBFBFB;
+}
+
+.stationto{
+position: absolute;
+    top: 46%;
+    left: 53%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 19px;
+    font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+    color: #FBFBFB;
+}
+
+.next1{
+    position: absolute;
+    /* Auto layout */
+    
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 4px 20px;
+        gap: 10px;
+    
+        position: absolute;
+        width: 109px;
+        height: 29px;
+        left: 80%;
+        top: 80%;
+    font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        background: #52F40D;
+        border-radius: 20px;
+        border: #000000;
+}
+
+.next2{
+    position: absolute;
+        /* Auto layout */
+    
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 4px 20px;
+        gap: 10px;
+    
+        position: absolute;
+        width: 109px;
+        height: 29px;
+        left: 80%;
+        top: 80%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        background: #52F40D;
+        border-radius: 20px;
+        border: #000000;
+}
+
+.next3{
+    position: absolute;
+        /* Auto layout */
+    
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 4px 20px;
+        gap: 10px;
+    
+        position: absolute;
+        width: 109px;
+        height: 29px;
+        left: 80%;
+        top: 55%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        background: #52F40D;
+        border-radius: 20px;
+        border: #000000;
+}
+
+.next4{
+    position: absolute;
+        /* Auto layout */
+    
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 4px 20px;
+        gap: 10px;
+    
+        position: absolute;
+        width: 109px;
+        height: 29px;
+        left: 80%;
+        top: 80%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        background: #52F40D;
+        border-radius: 20px;
+        border: #000000;
+}
+
+.next5{
+    position: absolute;
+        /* Auto layout */
+    
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 4px 20px;
+        gap: 10px;
+    
+        position: absolute;
+        width: 109px;
+        height: 29px;
+        left: 80%;
+        top: 80%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        background: #52F40D;
+        border-radius: 20px;
+        border: #000000;
+}
+
+.next6{
+    position: absolute;
+        /* Auto layout */
+    
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 4px 20px;
+        gap: 10px;
+    
+        position: absolute;
+        width: 109px;
+        height: 29px;
+        left: 80%;
+        top: 80%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        background: #52F40D;
+        border-radius: 20px;
+        border: #000000;
+}
+
+.next7{
+    position: absolute;
+        /* Auto layout */
+    
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 4px 20px;
+        gap: 10px;
+    
+        position: absolute;
+        width: 109px;
+        height: 29px;
+        left: 80%;
+        top: 80%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        background: #52F40D;
+        border-radius: 20px;
+        border: #000000;
+}
+
+.navlink{
+    color: #FBFBFB;
+    text-decoration: none;
+}
+
+.navlink.active{
+    color: #52F40D;
+    text-decoration: none;
+}
+
+.RBOX0{
+    position: absolute;
+        width: 1100px;
+        height: 240px;
+        left: 14%;
+        top: 13%;
+    
+        background: #000000;
+        border-radius: 10px;
+        z-index: 1;
+}
+
+.whitegola1{
+    position: absolute;
+    left: 1%;
+    top: 10%;
+}
+
+.greengola1{
+    position: absolute;
+    right: 1%;top: 10%;
+}
+.selectoption:hover {
+    background-color: lightblue;
+    color: white;
+}
+.greydabba{
+    position: absolute;
+    position: absolute;
+        width: 1140px;
+        height: 2320px;
+        left: 192px;
+        top: 50px;
+    z-index: 0;
+        background: #242424;
+        border-radius: 10px;
+}
+
+.blackdabba{
+    position: absolute;
+        position: absolute;
+        width: 1100px;
+        height: 2040px;
+        left: 213px;
+        top: 325px;
+       z-index: 1;
+        background: #000000;
+        border-radius: 10px;
+}
+
+/* CSS FOR ALL BUTTONS */
+
+.Rbutton1{
+    position: absolute;
+    left: 16%;
+    top: 43%;
+    height: 24px;
+    font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+    width: 24px;
+    border-radius: 3px;
+        border: #000000;
+        color: #FBFBFB;
+        background: #A3A3A3;
+    
+}
+.Rbutton2{
+    position: absolute;
+    top: 43%;
+    left: 26%;
+    font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+    height: 24px;
+        width: 24px;
+        background: #494949;
+            border-radius: 3px;
+            border: #000000;
+            color: #FBFBFB;
+}
+
+.capacitY{
+position: absolute;
+color: #FBFBFB;
+left: 7%;
+top: 35%;
+}
+
+.RCOUNT1{
+    position: absolute;
+    top: 37.6%;
+    left: 19.7%;
+    font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #52F40D;
+}
+
+.runtimE{
+position: absolute;
+    color: #FBFBFB;
+    left: 7%;
+    top: 58%;
+
+}
+.Rbutton3{
+    position: absolute;
+        left: 16%;
+        top: 67%;
+        height: 24px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        width: 24px;
+        border-radius: 3px;
+        border: #000000;
+        color: #FBFBFB;
+        background: #A3A3A3;
+}
+.Rbutton4{
+    position: absolute;
+        top: 67%;
+        left: 26%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        height: 24px;
+        width: 24px;
+        background: #494949;
+        border-radius: 3px;
+        border: #000000;
+        color: #FBFBFB;
+}
+.RCOUNT2{
+    position: absolute;
+        top: 62.4%;
+        left: 19.9%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #52F40D;
+}
+
+.consume{
+    position: absolute;
+        color: #FBFBFB;
+        left: 47%;
+        top: 62%;
+}
+
+.Rbutton5{
+    position: absolute;
+        left: 68%;
+        top: 69%;
+        height: 24px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        width: 24px;
+        border-radius: 3px;
+        border: #000000;
+        color: #FBFBFB;
+        background: #A3A3A3;
+}
+.Rbutton6{
+    position: absolute;
+        top: 69%;
+        left: 75%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        height: 24px;
+        width: 24px;
+        background: #494949;
+        border-radius: 3px;
+        border: #000000;
+        color: #FBFBFB;
+}
+
+.RCOUNT3{
+    position: absolute;
+        top: 65.3%;
+        left: 72%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #52F40D;
+}
+
+.cylinder{
+    position: absolute;
+        color: #FBFBFB;
+        left: 47%;
+        top: 32%;
+}
+
+.Rbutton7{
+    position: absolute;
+        left: 65%;
+        top: 39%;
+        height: 24px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        
+        width: 24px;
+        border-radius: 3px;
+        border: #000000;
+        color: #FBFBFB;
+        background: #A3A3A3;
+}
+.Rbutton8{
+    position: absolute;
+        top: 39%;
+        left: 72%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        height: 24px;
+        width: 24px;
+        background: #494949;
+        border-radius: 3px;
+        border: #000000;
+        color: #FBFBFB;
+}
+.RCOUNT4{
+    position: absolute;
+        top: 34.9%;
+        left: 69%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #52F40D;
+        
+}
+
+.totalveh{
+position: absolute;
+    color: #FBFBFB;
+    left: 3%;
+    top: 24%;
+}
+.RCOUNT5{
+position: absolute;
+    top: 26.5%;
+    left: 24%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #52F40D;
+}
+.Rbutton9{
+position: absolute;
+    left: 20.3%;
+    top: 30.4%;
+    height: 24px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+
+    width: 24px;
+    border-radius: 3px;
+    border: #000000;
+    color: #FBFBFB;
+    background: #A3A3A3;
+}
+.Rbutton10{
+position: absolute;
+    top: 30.4%;
+    left: 26.5%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    height: 24px;
+    width: 24px;
+    background: #494949;
+    border-radius: 3px;
+    border: #000000;
+    color: #FBFBFB;
+}
+
+.Rbutton11{
+    position: absolute;
+        left: 20.3%;
+        top: 33%;
+        height: 24px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+    
+        width: 24px;
+        border-radius: 3px;
+        border: #000000;
+        color: #FBFBFB;
+        background: #A3A3A3;
+}
+.Rbutton12{
+    position: absolute;
+        top: 33%;
+        left: 25.3%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        height: 24px;
+        width: 24px;
+        background: #494949;
+        border-radius: 3px;
+        border: #000000;
+        color: #FBFBFB;
+}
+
+.RCOUNT6{
+    position: absolute;
+        top: 27.7%;
+        left: 23.4%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #52F40D;
+}
+
+.RCOUNT7{
+    position: absolute;
+        top: 61%;
+        left: 35%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #52F40D;
+}
+
+.Rbutton13{
+position: absolute;
+    left: 31%;
+    top: 65%;
+    height: 24px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+
+    width: 24px;
+    border-radius: 3px;
+    border: #000000;
+    color: #FBFBFB;
+    background: #A3A3A3;
+}
+.Rbutton14{
+position: absolute;
+    top: 65%;
+    left: 38%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    height: 24px;
+    width: 24px;
+    background: #494949;
+    border-radius: 3px;
+    border: #000000;
+    color: #FBFBFB;
+}
+
+.RCOUNT8{
+    position: absolute;
+        top: 31%;
+        left: 32%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #52F40D;
+}
+
+.Rbutton15{
+position: absolute;
+    left: 28.3%;
+    top:37%;
+    height: 24px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+
+    width: 24px;
+    border-radius: 3px;
+    border: #000000;
+    color: #FBFBFB;
+    background: #A3A3A3;
+}
+
+.Rbutton16{
+position: absolute;
+    top: 37%;
+    left: 35%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    height: 24px;
+    width: 24px;
+    background: #494949;
+    border-radius: 3px;
+    border: #000000;
+    color: #FBFBFB;
+}
+
+.RCOUNT9{
+    position: absolute;
+        top: 63%;
+        left: 28%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #52F40D;
+}
+
+.Rbutton17{
+position: absolute;
+    left: 24%;
+    top: 67%;
+    height: 24px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+
+    width: 24px;
+    border-radius: 3px;
+    border: #000000;
+    color: #FBFBFB;
+    background: #A3A3A3;
+}
+.Rbutton18{
+position: absolute;
+    top:67%;
+    left: 31%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    height: 24px;
+    width: 24px;
+    background: #494949;
+    border-radius: 3px;
+    border: #000000;
+    color: #FBFBFB;
+}
+
+.capa{
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 211px;
+        height: 30px;
+       top: 40%;
+       left: 17%;
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 211px;
+        height: 30px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #52F40D;
+        background: #000000;
+        border: 1px solid #FBFBFB;
+        border-radius: 5px;
+}
+
+.leakage{
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 58px;
+        height: 30px;
+        left: 58%;
+        top: 57%;
+    color: #52F40D;
+        background: #000000;
+        border: 1px solid #FBFBFB;
+        border-radius: 5px;
+        font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+}
+
+.fug{
+    position: absolute;
+        top: 47%;
+        left: 50%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 19px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #FBFBFB;
+}
+
+.RCOUNT10{
+position: absolute;
+    top: 21.2%;
+    left: 34%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #52F40D;
+}
+.Rbutton19{
+position: absolute;
+    left: 30%;
+    top: 23.7%;
+    height: 24px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+
+    width: 24px;
+    border-radius: 3px;
+    border: #000000;
+    color: #FBFBFB;
+    background: #A3A3A3;
+}
+.Rbutton20{
+position: absolute;
+    left: 37%;
+    top: 23.7%;
+    height: 24px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+
+    width: 24px;
+    border-radius: 3px;
+    border: #000000;
+    color: #FBFBFB;
+    background: #494949;
+}

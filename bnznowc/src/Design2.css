@@ -1,0 +1,1071 @@
+.tripgrey{
+    position: absolute;
+        width: 1170px;
+        height: 1366px;
+        left: 140px;
+        top: 177px;
+        z-index: -1;
+    
+        background: #242424;
+        border-radius: 10px;
+}
+.tripblack{
+    position: absolute;
+        width: 1133px;
+        height: 1066px;
+        left: 159px;
+        top: 457px;
+    
+        background: #000000;
+        box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+        border-radius: 10px;
+}
+
+.TBOX0{
+position: absolute;
+    width: 1133px;
+    height: 240px;
+    left: 159px;
+    top: 197px;
+
+    background: #000000;
+    border-radius: 10px;
+}
+.block1{
+    position: absolute;
+        width: 1099px;
+        height: 47px;
+        left: 0px;
+        
+        top: -4%;
+    
+        background: #444444;
+        border-radius: 5px 5px 0px 0px;
+}
+
+.edit1{
+ position: absolute;
+font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FBFBFB;
+    top: 3%;
+    left: 93%;
+    border: #444444;
+    z-index: 1;
+    
+        background-color: #444444;
+}
+.vector1{
+    position: absolute;
+        width: 25px;
+        height: 25px;
+        top: 2%;
+        left: 3%;
+        z-index: 1;
+}
+.SKIP1{
+    position: absolute;
+        font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 21px;
+            /* identical to box height */
+        
+            text-align: center;
+            text-decoration-line: underline;
+            
+            background: black;
+            color: #FBFBFB;
+            border: #000000;
+        top: 90%;
+        left: 3%;
+}
+.Head1{
+position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FBFBFB;
+    top: -1%;
+    z-index: 1;
+    left: 7%;
+}
+.subhead1{
+position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FBFBFB;
+    top: 10%;
+    left: 3%;
+}
+.subhead2{
+position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14.5px;
+    line-height: 24px;
+    color: #FBFBFB;
+    top: 18%;
+        left: 3%;
+}
+.passengers1{
+position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FBFBFB;
+    top: 33%;
+    left: 3%;
+}
+.TCOUNT1{
+position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #52F40D;
+    top: 34%;
+    left: 24%;
+}
+.Tbutton1 {
+position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    width: 24px;
+        height: 24px;
+    line-height: 24px;
+    background: #A3A3A3;
+        border-radius: 3px;
+        color: white;
+        border: #000000;
+    top: 36.2%;
+    left: 20%;
+
+}
+.anotherflight{
+    position: absolute;
+    top: 73%;
+    left: 3%;
+    box-sizing: border-box;
+    font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #52F40D;
+    background-color: #000000;
+        /* Auto layout */
+    
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 4px 20px;
+        gap: 10px;
+        border: 1px solid #52F40D;
+            border-radius: 20px;
+}
+.break1{
+    position: absolute;
+    color: #494949;
+    width:  1097px;
+        height: 0px;
+        left: 0px;
+        top: 83%;
+    
+        border: 1px solid #444444;;
+
+}
+.Tbutton2 {
+position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    width: 24px;
+        height: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    background: #494949;
+        border-radius: 3px;
+    line-height: 24px;
+    border: #000000;
+    color: white;
+    top: 36.2%;
+        left: 27%;
+}
+.calculate1{
+position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    background: #52F40D;
+        border-radius: 20px;
+        display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            padding: 4px 20px;
+            gap: 10px;
+            border: #000000;
+    top: 90%;
+    left: 13%;
+
+}
+.heading1{
+position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FBFBFB;
+    left: 3%;
+    top: 44%;
+}
+.Flight{
+position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color:#52F40D;
+    left: 23%;
+    top: 47%;
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 211px;
+        height: 30px;
+       
+    
+        background: #000000;
+        border: 1px solid #FBFBFB;
+        border-radius: 5px;
+}
+.heading2{
+position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FBFBFB;
+    left: 3%;
+        top: 57%;
+}
+.DepAirport{
+position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #52F40D;
+    position: absolute;
+        width: 211px;
+        height: 30px;
+        top: 60%;
+        left: 22%;
+    
+    
+        background: #000000;
+        border: 1px solid #FBFBFB;
+        border-radius: 5px;
+}
+.heading3 {
+position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FBFBFB;
+    top: 44%;
+    left: 53%;
+
+}
+.ArrAiport{
+    position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        color: #52F40D;
+        position: absolute;
+            width: 211px;
+            height: 30px;
+            top: 47%;
+            left: 70%;
+
+        
+        
+            background: #000000;
+            border: 1px solid #FBFBFB;
+            border-radius: 5px;
+
+}
+
+.heading4 {
+    position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        color: #FBFBFB;
+        left: 53%;
+        top: 57%;
+}
+.Class{
+    position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        position: absolute;
+            width: 211px;
+            height: 30px;
+            top: 60%;
+            left: 68%;
+        
+        
+            background: #000000;
+            border: 1px solid #FBFBFB;
+            border-radius: 5px;
+        color: #52F40D;
+}
+
+.TBOX1{
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 1099px;
+        height: 426px;
+        left: 180px;
+        top: 472px;
+    
+        background: #000000;
+        border: 1px solid #444444;
+        border-radius: 5px;
+}
+
+
+/* BOX 2 css*/
+.block2{
+    position: absolute;
+        width: 1099px;
+        height: 47px;
+        left: 0px;
+    
+        top: -6%;
+    
+        background: #444444;
+        border-radius: 5px 5px 0px 0px;
+}
+.calculate2{
+    display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 4px 20px;
+        gap: 10px;
+    
+        position: absolute;
+        width: 109px;
+        height: 29px;
+        
+        top: 87%;
+    
+        background: #52F40D;
+        border-radius: 20px;
+        font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 24px;
+            background: #52F40D;
+            border-radius: 20px;
+            border: #000000;
+            
+            left: 13%;
+}
+.SKIP2{
+    position: absolute;
+    font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        left: 3%;
+        text-align: center;
+            text-decoration-line: underline;
+        
+            background: black;
+            color: #FBFBFB;
+            border: #000000;
+        top: 90%;
+
+}
+
+.edit2{
+    position: absolute;
+    font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        top: 4%;
+        border: #444444;
+            z-index: 1;
+        
+            background-color: #444444;
+       left: 92%;
+
+    }
+
+.Head2{
+    position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        top: 0%;
+        left: 7%;
+        color: #FBFBFB;
+}
+.vector2 {
+    position: absolute;
+        width: 25px;
+        height: 25px;
+        top: 4%;
+        left: 3%;
+        z-index: 1;
+}
+
+.subhead3{
+    position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        top: 17%;
+        left: 3%;
+        color: #FBFBFB;
+}
+
+.distance1{
+    position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        top: 65%;
+        left: 3%;
+        color: #FBFBFB;
+}
+
+.TCOUNT2{
+    position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        top: 67%;
+        left: 21%;
+        color: #52F40D;
+
+}
+
+.Tbutton3{
+position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    border-radius: 3px;
+    line-height: 24px;
+    top: 70%;
+    left: 17.3%;
+    color: #FBFBFB;
+        border: #000000;
+    height: 24px;
+    width: 24px;
+    background: #A3A3A3;
+}
+.Tbutton4 {
+position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FBFBFB;
+        border: #000000;
+    line-height: 24px;
+    top: 70%;
+        left: 26.1%;
+        border-radius: 3px;
+        height: 24px;
+        background: #494949;
+        width: 24px;
+}
+
+.passengers2{
+    position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        top: 65%;
+            left: 50%;
+            color: #FBFBFB;
+
+}
+
+.TCOUNT3{
+    position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        top: 67.3%;
+            left: 70%;
+            color:#52F40D ;
+}
+.Tbutton5 {
+position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    background: #A3A3A3;
+    line-height: 24px;
+    color: #FBFBFB;
+        border: #000000;
+        height: 24px;
+            width: 24px;
+            top: 70%;
+            left: 66%;
+            border-radius: 3px;
+}
+.Tbutton6 {
+position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    background: #494949;
+    color: #FBFBFB;
+    border: #000000;
+    line-height: 24px;
+        height: 24px;
+            width: 24px;
+            top: 70%;
+            left: 73%;
+            border-radius: 3px;
+}
+
+
+.heading5{
+    position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        top: 35%;
+        left: 3%;
+        color: #FBFBFB;
+}
+.Flight2{
+    position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        box-sizing: border-box;
+        
+            position: absolute;
+            width: 211px;
+            height: 30px;
+          
+        color: #52F40D;
+            background: #000000;
+            border: 1px solid #FBFBFB;
+            border-radius: 5px;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        top: 40%;
+        left: 23%;
+}
+.heading6{
+    position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        top: 35%;
+        left: 50%;
+        color: #FBFBFB;
+        line-height: 24px;
+}
+
+.COUNTRY1{
+    position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        top: 41%;
+        left: 68%;
+        box-sizing: border-box;
+        
+            position: absolute;
+            width: 211px;
+            height: 30px;
+        
+            color: #52F40D;
+            background: #000000;
+            border: 1px solid #FBFBFB;
+            border-radius: 5px;
+}
+
+.TBOX2{
+    
+        box-sizing: border-box;
+        
+            position: absolute;
+            width: 1099px;
+                height: 260px;
+            left: 180px;
+            top: 918px;
+        
+            background: #000000;
+            border: 1px solid #444444;
+            border-radius: 5px;
+}
+
+/* BOX 3 css*/
+.SKIP3{
+position: absolute;
+font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    left: 3%;
+    text-align: center;
+    text-decoration-line: underline;
+
+    background: black;
+    color: #FBFBFB;
+    border: #000000;
+    top: 90%;
+
+}
+.calculate3{
+    display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 4px 20px;
+        gap: 10px;
+    
+        position: absolute;
+        width: 109px;
+        height: 29px;
+    
+        top: 87%;
+    
+        background: #52F40D;
+        border-radius: 20px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        background: #52F40D;
+        border-radius: 20px;
+        border: #000000;
+    
+        left: 13%;
+}
+.edit3{
+position: absolute;
+font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    top: 3%;
+    border: #444444;
+    z-index: 1;
+
+    background-color: #444444;
+    left: 92%;
+}
+.block3{
+position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    position: absolute;
+        width: 1099px;
+        height: 47px;
+        left: 0px;
+    
+        top: -6%;
+    
+        background: #444444;
+        border-radius: 5px 5px 0px 0px;
+}
+
+.vector3{
+position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    left: 3%;
+    top: 3%;
+
+}
+
+.Head3{
+position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+     top: -1%;
+        left: 7%;
+        color: #FBFBFB;
+}
+.subhead4{
+position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    top: 16%;
+        left: 3%;
+        color: #FBFBFB;
+    
+
+}
+
+.stars{
+position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    top: 47%;
+    left: 3%;
+    color: #FBFBFB;
+
+}
+
+.TCOUNT4{
+position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    top: 48.4%;
+    color: #52F40D;
+    left: 17%;
+}
+.Tbutton7{
+    position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        top: 51%;
+        left: 13.5%;
+        height: 24px;
+        width: 24px;
+        border-radius: 3px;
+        color: #FBFBFB;
+        background: #A3A3A3;
+        border: #000000;
+}
+.Tbutton8{
+    position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        top: 51%;
+        left: 19.5%;
+        height: 24px;
+        color: #FBFBFB;
+            width: 24px;
+            border-radius: 3px;
+            background:#494949;
+            border: #000000;
+}
+
+.days{
+    position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #FBFBFB;
+        top: 65%;
+        left: 3%;
+}
+
+.TCOUNT5{
+position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    top: 67%;
+    left: 17%;
+    color: #52F40D;
+}
+.Tbutton9{
+    position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        height: 24px;
+            width: 24px;
+            border-radius: 3px;
+            top: 70%;
+            border: #000000;
+            left: 13.5%;
+            color: #FBFBFB;
+            background: #A3A3A3;
+        font-size: 16px;
+}
+.Tbutton10{
+    position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        height: 24px;
+            width: 24px;
+            left: 19.5%;
+            top: 70%;
+            border: #000000;
+            border-radius: 3px;
+            background: #494949;
+            color: #FBFBFB;
+        font-size: 16px;
+}
+
+.rooms{
+    position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        top: 47%;
+            left: 49%;
+            color: #FBFBFB;
+
+}
+.TCOUNT6{
+position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #52F40D;
+    top: 49%;
+    left: 65%;
+}
+.Tbutton11{
+    position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        height: 24px;
+            width: 24px;
+            border-radius: 3px;
+            background: #A3A3A3;
+        font-weight: 400;
+        font-size: 16px;
+        color: #FBFBFB;
+        top: 52%;
+        left: 61%;
+        border: #000000;
+}
+
+.Tbutton12{
+    position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        height: 24px;
+            width: 24px;
+            border-radius: 3px;
+            background:#494949;
+            color: #FBFBFB;
+            top: 52%;
+            left: 68%;
+        font-size: 16px;
+        border: #000000;
+}
+
+.heading7{
+    position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        top: 29%;
+        left: 3%;
+        color: #FBFBFB;
+}
+.COUNTRY2{
+    position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        left: 19%;
+        top: 34%;
+        box-sizing: border-box;
+        
+            position: absolute;
+            width: 211px;
+            height: 30px;
+         
+        color: #52F40D;
+            background: #000000;
+            border: 1px solid #FBFBFB;
+            border-radius: 5px;
+}
+
+.TBOX3{
+    position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        box-sizing: border-box;
+        
+            position: absolute;
+            width: 1099px;
+            height: 310px;
+            left: 180px;
+            top: 1198px;
+        
+            background: #000000;
+            border: 1px solid #444444;
+            border-radius: 5px;
+}
+
+/*  FOOTER CSS  */
+.FACEBOOK1{
+    position: absolute;
+        width: 30px;
+        height: 30px;
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+        border-radius: 50%;
+        left: 13%;
+        top: 250%;
+}
+.INSTAGRAM1{
+    position: absolute;
+        width: 30px;
+        height: 30px;
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+        border-radius: 50%;
+        left: 16%;
+        top: 250%;
+}
+.TELEGRAM1{
+    position: absolute;
+        width: 30px;
+        height: 30px;
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+        border-radius: 50%;
+        left: 19%;
+        top: 250%;
+}
+.DISCORD1{
+    position: absolute;
+        width: 30px;
+        height: 30px;
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+        border-radius: 50%;
+        left: 22%;
+        top: 250%;
+        padding-bottom: 7%;
+}
+.NAV3{
+    position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 21px;
+        top: 236%;
+        left: 55%;
+    
+        color: rgba(255, 255, 255, 0.8);
+        list-style: none;
+}
+.NAV4{
+    position: absolute;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 21px;
+        top: 236%;
+        left: 70%;
+    
+        color: rgba(255, 255, 255, 0.8);
+        list-style: none;
+}
+.BNZ1{
+    position: absolute;
+        width: 30px;
+        height: 30px;
+        padding-bottom: 5%;
+        position: absolute;
+        width: 110px;
+        height: 72.04px;
+        left: 13%;
+        top: 236%;
+}
+
