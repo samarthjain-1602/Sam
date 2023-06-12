@@ -4,12 +4,15 @@ import './Design.css'
 import './Design1.css'
 import './Design2.css'
 import './Design3.css'
+import './Design4.css'
 import Landing from './components/Landing';
 import Compapnycalc from './screens/CompanyCalc';
 import PersonalCalc from './screens/PersonalCalc';
 import TripsCalc from './screens/TripsCalc';
 import CompanyType from './screens/CompanyType';
 import Resort from './screens/Resort';
+import Bank from './screens/Bank';
+import IT from './screens/IT';
 
 function App(){
     return(
@@ -21,7 +24,8 @@ function App(){
               <Route path='/trip' element={<TripsCalc/>}/>
               <Route path='/type' element={<CompanyType />} />
               <Route path='/resort' element={<Resort />} />
-
+              <Route path='/Bank' element={<Bank />} />
+              <Route path='/IT' element={<IT/>} />
            </Routes>
         
         </BrowserRouter>

@@ -45,7 +45,7 @@ const MyPage = () => {
   const vehicle = ['', 'LDV', 'MDV'];
   const gas = ['R-22', 'R-134Q', 'R-410A'];
   const car = ['Sedan', 'Hatchback', 'SUV'];
-  const company = ['Resort', 'Hospital', 'IT', 'Financial'];
+  const company = ['Resort', 'Hospital', 'IT', 'bank'];
   const trips = ['USA', 'India', 'UK', 'Australia'];
   const countries = ['USA', 'India', 'UK', 'Australia'];
   const fuelTypes = ['Gasoline', 'Diesel', 'Electric', 'Petrol'];

@@ -5,7 +5,7 @@ import { useNavigate } from 'react-router-dom';
 function CompanyType(){
   const [selectedCompany, setSelectedCompany] = useState('');
   const navigate = useNavigate();
-  const company = ['','Resort', 'Hospital', 'IT', 'Financial'];
+  const company = ['','Resort', 'Hospital', 'IT', 'Bank'];
   
    const handleCompanyType = (event) => {
     setSelectedCompany(event.target.value);
